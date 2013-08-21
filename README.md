@@ -1,4 +1,5 @@
 # Osrshighscores
+[![Code Climate](https://codeclimate.com/github/pensivearchitect/OSRSGrabber.png)](https://codeclimate.com/github/pensivearchitect/OSRSGrabber)
 
 Easy to use gem for downloading and parsing Oldschool Runescape highscores
 
